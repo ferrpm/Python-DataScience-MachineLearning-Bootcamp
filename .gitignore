@@ -1,3 +1,6 @@
 *.csv
 *.xlsx
 *.txt
+/TensorFlow/DATA
+*.h5
+*.keras
